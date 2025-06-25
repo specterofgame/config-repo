@@ -5,4 +5,4 @@ spring:
       password: Tianshui#2025!
       driver-class-name: com.mysql.cj.jdbc.Driver
 server:
-  port:8082
+  port: 8082
